@@ -12,10 +12,16 @@
   - DOMAIN-SUFFIX,wandb.ai,Proxy
   - DOMAIN-SUFFIX,github.com,Proxy
   - DOMAIN-SUFFIX,prolific.com,Proxy
+  - DOMAIN-SUFFIX,smtp.gmail.com,Proxy
+  - DOMAIN-SUFFIX,imap.gmail.com,Proxy
+
+  
   - IP-CIDR,130.162.166.185/32,Proxy
   - IP-CIDR,45.78.202.20/32,Proxy
+
+  
   - DOMAIN-KEYWORD,claude,GLaDOS-US-03
   - DOMAIN-KEYWORD,anthropic,GLaDOS-US-03
   - DOMAIN-KEYWORD,antigravity,GLaDOS-US-03
   - DOMAIN-KEYWORD,cursor,GLaDOS-US-03
-# - DOMAIN-SUFFIX,binance.com,DIRECT
+
