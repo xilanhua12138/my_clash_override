@@ -14,6 +14,8 @@
   - DOMAIN-SUFFIX,prolific.com,Proxy
   - DOMAIN-SUFFIX,smtp.gmail.com,Proxy
   - DOMAIN-SUFFIX,imap.gmail.com,Proxy
+  - DOMAIN-SUFFIX,gmail.com,Proxy
+
 
   
   - IP-CIDR,130.162.166.185/32,Proxy
